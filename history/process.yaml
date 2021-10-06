@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE07SHSM-RID26-06-PHSEND000-recovered_inst-phsen_abcdef_instrument
 data_stream: CE07SHSM-RID26-06-PHSEND000-recovered_inst-phsen_abcdef_instrument
 end_date: '2020-07-07T14:34:32.000Z'
-last_updated: '2021-10-06T02:28:46.946964Z'
+last_updated: '2021-10-06T02:32:33.802993'
 start_date: '2015-10-13T17:28:15.000Z'
-status: pending
+status: success
