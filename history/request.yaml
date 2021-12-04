@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE07SHSM-RID26-06-PHSEND000-recovered_inst-phsen_abcdef_instrument
-last_request: '2021-10-05T22:18:12.590952Z'
+last_request: '2021-12-04T00:54:02.694355Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-RID26-06-PHSEND000-recovered_inst-phsen_abcdef_instrument/main/history/response.json
-status: success
+status: pending
